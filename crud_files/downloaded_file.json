@@ -1,0 +1,10 @@
+    {
+        "first_name": "Amit",
+        "last_name": "Sharma",
+        "address": "1234 MG Road",
+        "city": "Delhi",
+        "state": "Delhi",
+        "zip_code": "110001",
+        "phone": "9876543210",
+        "email": "amit.sharma@example.com"
+    }
